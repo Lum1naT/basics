@@ -1,0 +1,12 @@
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/bin/Debug/netcoreapp3.1/basics.deps.json
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/bin/Debug/netcoreapp3.1/basics.runtimeconfig.json
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/bin/Debug/netcoreapp3.1/basics.runtimeconfig.dev.json
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/bin/Debug/netcoreapp3.1/basics.dll
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/bin/Debug/netcoreapp3.1/basics.pdb
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.csprojAssemblyReference.cache
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.AssemblyInfoInputs.cache
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.AssemblyInfo.cs
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.csproj.CoreCompileInputs.cache
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.dll
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.pdb
+/Users/lum1nat/Documents/GitHub/seesharp/basics/basics/obj/Debug/netcoreapp3.1/basics.genruntimeconfig.cache
